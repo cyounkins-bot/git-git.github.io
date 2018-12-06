@@ -134,7 +134,7 @@ it saw EPIPE. Peff observed:
 >    start of the cruft, and then stop for reasons of efficiency.
 
 The discussion lead to
-an [enhancement](https://public-inbox.org/git/1431624219-25045-1-git-send-email-gjthill%40gmail.com//focus=269383)
+an [enhancement](https://public-inbox.org/git/1431624219-25045-1-git-send-email-gjthill%40gmail.com/)
 to allow clean/smudge filters to quit before reading their input fully.
 
 ### Support
